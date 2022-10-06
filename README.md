@@ -1,5 +1,5 @@
 ## Opa! Fala pessoal... me chamo Raphael Neves!
-## Atualmente desenvovlo soluções utilizando Ansible, Kubernetes, Podman, Docker, AWS e um pouco de Shell Script.
+## Atualmente estou desenvolvendo soluções utilizando Ansible, Kubernetes, Podman, Docker, AWS e um pouco de Shell Script.
 
 <div align="center">
   <a href="https://github.com/raphaelgdn">
