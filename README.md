@@ -63,5 +63,5 @@ Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, des
 
 ## 🐍 Snake Animation
 <div align="center">
-  <img src="https://github.com/raphaelgdn/raphaelgdn/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/raphaelgdn/raphaelgdn/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
