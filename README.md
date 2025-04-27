@@ -37,12 +37,6 @@ Atuo com foco em **ambientes escaláveis, automação inteligente** e **seguran�
 
 ## 🚀 Projetos em Destaque
 Em breve!
-<!--
-- [🔗 Painel Kubernetes Monitoramento](https://github.com/raphaelgdn/k8s-monitoring) — Painel Prometheus + Grafana em cluster Kubernetes
-- [🔗 Infraestrutura as Code AWS](https://github.com/raphaelgdn/aws-iac) — Provisionamento completo usando Terraform + Ansible
-- [🔗 Automação CI/CD Jenkins](https://github.com/raphaelgdn/jenkins-pipelines) — Pipelines modernos para DevOps em alta performance
--->
-
 
 ---
 
