@@ -8,12 +8,12 @@
 
 ## ✨ Sobre Mim
 
-Apaixonado por tecnologia, automação e ambientes em nuvem.  
-Atualmente desenvolvendo soluções com foco em **alta disponibilidade, segurança** e **automação de infraestrutura** utilizando **Ansible**, **EKS**, **K8S**, **Podman**, **Docker**, **AWS** e **Azure**.
+Sou movido pela paixão em **construir, automatizar e otimizar infraestruturas** de alta performance.  
+Atuo com foco em **ambientes escaláveis, automação inteligente** e **segurança em nuvem**, usando tecnologias como **Ansible**, **EKS**, **Kubernetes**, **Docker**, **AWS** e **Azure**.
 
 - 📍 Baseado no Rio de Janeiro - Brasil
-- 🚀 Sempre em busca de novos desafios e crescimento contínuo
-- 🎯 Comprometido com entrega de soluções eficientes e inovadoras
+- 🚀 Sempre em busca de novos desafios e inovações
+- 🎯 Foco absoluto em automação e alta disponibilidade
 - 🏆 Certificado CKA (Certified Kubernetes Administrator)
 
 ---
@@ -32,6 +32,16 @@ Atualmente desenvolvendo soluções com foco em **alta disponibilidade, seguran�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 </div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+- [🔗 Painel Kubernetes Monitoramento](https://github.com/raphaelgdn/k8s-monitoring) — Painel Prometheus + Grafana em cluster Kubernetes
+- [🔗 Infraestrutura as Code AWS](https://github.com/raphaelgdn/aws-iac) — Provisionamento completo usando Terraform + Ansible
+- [🔗 Automação CI/CD Jenkins](https://github.com/raphaelgdn/jenkins-pipelines) — Pipelines modernos para DevOps em alta performance
+
+*(Adapte com seus repositórios reais depois! Só exemplo!)*
 
 ---
 
@@ -71,4 +81,15 @@ Atualmente desenvolvendo soluções com foco em **alta disponibilidade, seguran�
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/raphaelgdn/raphaelgdn/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+## 📢 Entre em Contato
+
+<div align="center">
+  <strong>Quer conversar sobre projetos, parcerias ou tecnologia?</strong><br>
+  <a href="mailto:raphaneves.slack@gmail.com">
+    📧 <strong>Envie-me um e-mail</strong>
+  </a>
 </div>
