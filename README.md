@@ -1,18 +1,20 @@
-<h1 align="center">👋 Opa! Eu sou o Raphael Neves!</h1>
+<h1 align="center">🚀 Opa! Eu sou o Raphael Neves!</h1>
 
 <p align="center">
-  🚀 Desenvolvedor de Soluções em DevOps | Kubernetes | AWS | Azure | Ansible | Docker
+  🛠️ Especialista em Soluções DevOps | Kubernetes | AWS | Azure | Ansible | Docker
 </p>
 
 ---
 
-## 🚀 Sobre Mim
-Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, desenvolvendo soluções utilizando **Ansible**, **EKS**, **K8S**, **Podman**, **Docker**, **AWS** e **Azure**.
+## ✨ Sobre Mim
 
-- 📍 Rio de Janeiro, Brasil
-- 🧠 Sempre buscando novos desafios e aprendizados
-- 🎯 Foco em automação, segurança e alta disponibilidade
-- 🎓 Certificação: CKA (Certified Kubernetes Administrator)
+Apaixonado por tecnologia, automação e ambientes em nuvem.  
+Atualmente desenvolvendo soluções com foco em **alta disponibilidade, segurança** e **automação de infraestrutura** utilizando **Ansible**, **EKS**, **K8S**, **Podman**, **Docker**, **AWS** e **Azure**.
+
+- 📍 Baseado no Rio de Janeiro - Brasil
+- 🚀 Sempre em busca de novos desafios e crescimento contínuo
+- 🎯 Comprometido com entrega de soluções eficientes e inovadoras
+- 🏆 Certificado CKA (Certified Kubernetes Administrator)
 
 ---
 
@@ -36,15 +38,19 @@ Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, des
 ## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelgdn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgdn&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelgdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelgdn&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelgdn&theme=tokyonight" />
 </div>
 
 ---
 
-## 🔗 Redes Sociais
+## 🌎 Redes Sociais
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
   <a href="https://www.youtube.com/channel/UCRf4TkmqCkrn0leJ7fH5Yug" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
@@ -62,6 +68,7 @@ Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, des
 ---
 
 ## 🐍 Snake Animation
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/raphaelgdn/raphaelgdn/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
