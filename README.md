@@ -1,13 +1,13 @@
 <h1 align="center">👋 Opa! Eu sou o Raphael Neves!</h1>
 
 <p align="center">
-  🚀 Desenvolvedor de Soluções em DevOps | Kubernetes | AWS | Ansible | Docker
+  🚀 Desenvolvedor de Soluções em DevOps | Kubernetes | AWS | Azure | Ansible | Docker
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
-Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, desenvolvendo soluções utilizando **Ansible**, **EKS**, **K8S**, **Podman**, **Docker** e **AWS**.
+Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, desenvolvendo soluções utilizando **Ansible**, **EKS**, **K8S**, **Podman**, **Docker**, **AWS** e **Azure**.
 
 - 📍 Rio de Janeiro, Brasil
 - 🧠 Sempre buscando novos desafios e aprendizados
@@ -21,9 +21,10 @@ Sou apaixonado por tecnologia, automação e ambientes em nuvem. Atualmente, des
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
